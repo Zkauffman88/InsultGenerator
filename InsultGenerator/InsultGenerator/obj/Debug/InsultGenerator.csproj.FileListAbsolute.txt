@@ -1,0 +1,6 @@
+c:\users\zach kauffman\documents\visual studio 2015\Projects\InsultGenerator\InsultGenerator\bin\Debug\InsultGenerator.exe.config
+c:\users\zach kauffman\documents\visual studio 2015\Projects\InsultGenerator\InsultGenerator\obj\Debug\InsultGenerator.csprojResolveAssemblyReference.cache
+c:\users\zach kauffman\documents\visual studio 2015\Projects\InsultGenerator\InsultGenerator\bin\Debug\InsultGenerator.exe
+c:\users\zach kauffman\documents\visual studio 2015\Projects\InsultGenerator\InsultGenerator\bin\Debug\InsultGenerator.pdb
+c:\users\zach kauffman\documents\visual studio 2015\Projects\InsultGenerator\InsultGenerator\obj\Debug\InsultGenerator.exe
+c:\users\zach kauffman\documents\visual studio 2015\Projects\InsultGenerator\InsultGenerator\obj\Debug\InsultGenerator.pdb
